@@ -9,5 +9,8 @@
         <module name="CI_Mvn_DZ" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CI_Mvn_DZ" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
